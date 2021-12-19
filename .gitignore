@@ -1,5 +1,3 @@
-*.csproj
-*.sln
 .vs/
 Library/
 Logs/
